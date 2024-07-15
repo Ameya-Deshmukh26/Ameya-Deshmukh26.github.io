@@ -23,7 +23,7 @@
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "Ameya-Deshmukh26/Ameya-Deshmukh26.github.io",
+  "homepage": "Ameya-Deshmukh26/ameya-deshmukh26.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
